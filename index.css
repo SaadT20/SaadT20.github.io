@@ -4,3 +4,14 @@ color: white;
 height: 100px;
 width: 100px;
 }
+
+#K1{
+background-image:url("g.jpeg");
+background-size: cover;
+background-repeat: no-repeat;
+position: absolute;
+left: 300px;
+right: 100px;
+height: 100px;
+width: 200px;
+}
